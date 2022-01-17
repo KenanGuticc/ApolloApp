@@ -1,0 +1,10 @@
+.starships-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+    table {
+        width: 80%;
+    }
+}
